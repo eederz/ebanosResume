@@ -26,7 +26,9 @@
     <div class="wrapper">
       <div class="sidebar">
         <header>
-            <img class="img-circle" src="assets/img/developerPic.jpeg" alt="Logo">
+          {% if site.logo %}
+            <img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo">
+          {% endif %}
 
           {% include sidebar.html %}
 
