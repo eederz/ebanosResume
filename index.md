@@ -4,12 +4,12 @@ layout: default
 
 # EDUARDO BAÑOS
 
-### FRONT-END DEVELOPER
+#### FRONT-END DEVELOPER
 
 ## Profile
 
-Being a Front-End Developer has exposed me to a diverse array of projects, enriching my technical skill set. I'm driven by a passion for technology, constantly seeking to stay updated with the latest industry trends and refine my abilities.
-Embracing new challenges is a catalyst for my personal and professional growth. I value teamwork, adaptability, and effective communication, fostering a collaborative work environment. I aim to consistently deliver high-quality work as a dedicated web developer.
+Being a Front-End Developer has exposed me to a diverse array of projects, enriching my technical skill set. I'm driven by a passion for technology, constantly seeking to stay updated with the latest industry trends and refine my abilities.<br/><br/>
+Embracing new challenges for my personal and professional growth. I value teamwork, adaptability, and effective communication, fostering a collaborative work environment. I aim to consistently deliver high-quality work as a dedicated web developer.
 
 ## Experience
 
@@ -158,3 +158,26 @@ Completed a mobile development scholarship focusing on iOS
 ```
 Aptitudes: Xcode · Objective-C · UX · JavaScript · Sketch
 ```
+
+## Skills
+
+### Coding Tools
+
+| HTML     | Javascript   | Appscript   | NPM
+| PUG      | Typescript   | Jekyll      | NodeJS
+| CSS      | Polymer      | Storybook   | Jest
+| SASS     | React        | Appsheet    | FormatJS
+
+### Other Tools
+
+| Google Tag Manager     | Centos   | Scrum
+| Live Person            | Github   |
+| Docker                 | Gitlab   |
+| Jenkins                | Scrum    |
+
+### UX Tools
+
+| HTML     | Javascript   | Appscript   | NPM
+| PUG      | Typescript   | Jekyll      | NodeJS
+| CSS      | Polymer      | Storybook   | Jest
+| SASS     | React        | Appsheet    | FormatJS

@@ -1,6 +1,9 @@
 {
   "developer": {
     "name": "Eduardo Baños",
-    "email": "edalbadi@gmail.com"
+    "email": "edalbadi@gmail.com",
+    "major": "Bachelor's degree in Computer Science",
+    "university": "UAM (Universidad Autónoma Metropolitana)",
+    "languages": "English C1"
   }
 }
