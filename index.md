@@ -14,13 +14,13 @@ Embracing new challenges for my personal and professional growth. I value teamwo
 ## Experience
 
 <p align="center">
-  <img alt="globantLogo" width="200px" src="/assets/img/globantLogo.png" />
+  <img alt="globantLogo" width="200px" src="assets/img/globantLogo.png" />
 </p>
 
 ---
 
 <p align="right">
-  <img alt="appscriptLogo" width="50px" src="/assets/img/appscriptLogo.png" />
+  <img alt="appscriptLogo" width="50px" src="assets/img/appscriptLogo.png" />
 </p>
 
 ## Internal Appscript project
@@ -34,7 +34,7 @@ Aptitudes: Appscript · Appsheet · JavaScriptAptitudes
 
 <br />
 <p align="right">
-  <img alt="royalLogo" width="40px" src="/assets/img/royalLogo.png" />
+  <img alt="royalLogo" width="40px" src="assets/img/royalLogo.png" />
 </p>
 
 ##  Royal Caribbean - Marketing Team
@@ -59,7 +59,7 @@ Aptitudes: Live Person · Bots · UX · Scrum · JavaScript · Figma
 
 <br />
 <p align="right">
-  <img alt="food52Logo" width="60px" src="/assets/img/food52Logo.jpeg" />
+  <img alt="food52Logo" width="60px" src="assets/img/food52Logo.jpeg" />
 </p>
 
 ## Food52 Inc - Sw Services
@@ -75,7 +75,7 @@ Aptitudes: Litmus · Sailthru · Google Tag Manager · JavaScript
 
 <br />
 <p align="right">
-  <img alt="skillshareLogo" width="60px" src="/assets/img/skillshareLogo.png" />
+  <img alt="skillshareLogo" width="60px" src="assets/img/skillshareLogo.png" />
 </p>
 
 ## Skillshare Inc. - Internationalization
@@ -91,7 +91,7 @@ Aptitudes: formatjs · formatphp · JavaScript · React
 
 <br />
 <p align="right">
-  <img alt="privaliaLogo" width="90px" src="/assets/img/privaliaLogo.png" />
+  <img alt="privaliaLogo" width="90px" src="assets/img/privaliaLogo.png" />
 </p>
 
 ## Privalia - Migration TM
@@ -108,7 +108,7 @@ Aptitudes: Code Commit AWS · GitLab · GitHub · CentOS · Docker
 
 <br />
 <p align="right">
-  <img alt="disneyLogo" width="60px" src="/assets/img/disneyLogo.png" />
+  <img alt="disneyLogo" width="60px" src="assets/img/disneyLogo.png" />
 </p>
 
 ## Disney Parks - Reference Architecture
@@ -126,13 +126,13 @@ Aptitudes: Npm · Nodejs · Polymer · Scrum · JavaScript
 <br />
 
 <p align="center">
-  <img alt="idsLogo" width="160px" src="/assets/img/idsLogo.svg" />
+  <img alt="idsLogo" width="160px" src="assets/img/idsLogo.svg" />
 </p>
 
 <br />
 
 <p align="right">
-  <img alt="bbvaLogo" width="100px" src="/assets/img/bbvaLogo.png" />
+  <img alt="bbvaLogo" width="100px" src="assets/img/bbvaLogo.png" />
 </p>
 
 ## BBVA - Bancomer Seguros
@@ -147,7 +147,7 @@ Aptitudes: Npm · Nodejs · Polymer · Scrum · JavaScript
 <br />
 
 <p align="right">
-  <img alt="bbvaRegularLogo" width="60px" src="/assets/img/bbvaRegularLogo.png" />
+  <img alt="bbvaRegularLogo" width="60px" src="assets/img/bbvaRegularLogo.png" />
 </p>
 
 
